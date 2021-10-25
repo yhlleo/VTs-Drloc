@@ -8,3 +8,5 @@ To appear in [NerIPS 2021](https://nips.cc/).
 [[arXiv]](https://arxiv.org/pdf/2106.03746.pdf)[[code]](https://github.com/yhlleo/VTs-Drloc)
 
 **Coming soon ...**
+
+![](./figures/teaser.jpg)
