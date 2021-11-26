@@ -104,7 +104,7 @@ This code is highly based on the [Swin-Transformer](https://github.com/microsoft
 ### Citation
 
 ```
-@InProceedings{Liu_2021_NEURIPS,
+@InProceedings{liu2021efficient,
     author    = {Liu, Yahui and Sangineto, Enver and Bi, Wei and Sebe, Nicu and Lepri, Bruno and De Nadai, Marco},
     title     = {Efficient Training of Visual Transformers with Small Datasets},
     booktitle = {Conference on Neural Information Processing Systems (NeurIPS)},
