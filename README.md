@@ -27,7 +27,7 @@ To appear in [NerIPS 2021](https://nips.cc/).
 |[Real](http://ai.bu.edu/M3SDA/)|[images](http://csr.bu.edu/ftp/visda/2019/multi-source/real.zip), [train_list](http://csr.bu.edu/ftp/visda/2019/multi-source/domainnet/txt/real_train.txt), [test_list](http://csr.bu.edu/ftp/visda/2019/multi-source/domainnet/txt/real_test.txt)|
 |[Sketch](http://ai.bu.edu/M3SDA/)|[images](http://csr.bu.edu/ftp/visda/2019/multi-source/sketch.zip), [train_list](http://csr.bu.edu/ftp/visda/2019/multi-source/domainnet/txt/sketch_train.txt), [test_list](http://csr.bu.edu/ftp/visda/2019/multi-source/domainnet/txt/sketch_test.txt)|
 
- - Download the datasets and pre-processe some of them (i.e., imagenet, domainnet) by using codes in the `scripts` folder.
+ - Download the datasets and pre-processe some of them (i.e., imagenet, [domainnet](http://ai.bu.edu/M3SDA/)) by using codes in the `scripts` folder.
  - The datasets are prepared with the following stucture (except CIFAR-10/100 and SVHN):
 
 ```
