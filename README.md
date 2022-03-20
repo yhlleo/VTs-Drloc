@@ -1,6 +1,6 @@
 # Efficient Training of Visual Transformers with Small Datasets
 
-[![Maintenance](https://img.shields.io/badge/Maintaining%3F-yes-green.svg)]((https://github.com/yhlleo/frechet-bert-distance/graphs/commit-activity))
+[![Maintenance](https://img.shields.io/badge/Maintaining%3F-yes-green.svg)]((https://github.com/yhlleo/VTs-Drloc/graphs/commit-activity))
 ![Contributing](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 
 ![](./figures/teaser.jpg)
